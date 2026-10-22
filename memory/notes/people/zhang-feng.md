@@ -3,7 +3,7 @@ display_name: 张凤
 first_name: 凤
 last_name: 张
 summary: WeChat contact who gets the user's daily morning tea poster; on 2026-10-20 the user picked the 企业微信 route to her (registration now in the user's hands) after the passive bot blocked direct auto-send.
-rank: 2
+rank: 3
 updated: 2026-10-20
 ---
 

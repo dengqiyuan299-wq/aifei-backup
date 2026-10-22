@@ -2,8 +2,8 @@
 display_name: 江哥
 nickname: 江哥
 summary: Acquaintance the user addresses as 江哥, tied to tea-and-wine companionship （茶酒水陪）; the user set up the 茶酒水培 side chat around him on 2026-10-15.
-rank: 1
-updated: 2026-10-15
+rank: 2
+updated: 2026-10-22
 ---
 
 # 江哥
@@ -12,7 +12,7 @@ updated: 2026-10-15
 - The user knows and addresses him as 江哥. "江" reads as his family name and "哥" is the user's own familiar, respectful address for an older male; the actual relationship — friend, colleague, mentor — is not stated. (memory://md:MEMORY.md:10, memory://md:memory/2026-10-15.md:110; quote: "江哥，茶酒水陪的。旁聊。")
 - He is associated with 茶酒水陪 — tea, wine and water companionship, the hosting/accompanying culture around drinking tea, wine and water. The exact role he plays in it is unstated; what the evidence supports is only that the user linked him to that theme.
 - On 2026-10-15 (~18:24 CST) the user created a side chat first described as "江哥，茶酒水陪的。旁聊。" and then named 茶酒水培, the corrected name the user chose. (memory://md:memory/2026-10-15.md:110)
-- The 茶酒水培 chat held 3 messages as of the 2026-10-15 20:00 chat backup. (memory://md:memory/2026-10-15.md:104)
+- The 茶酒水培 chat held 170 messages as of the 2026-10-22 morning chat backup (nightly backup, delivered 2026-10-22 ~09:32 CST: "主聊 620 / 工作 529 / 茶酒水培 170 / 营销海报 112 / 备忘录 14 / 健康管理 30"). (window 2026-10-22T01:32:56+00:00, message:assistant-msg-ff89d6b5-5dec-4bad-9f05-2592482569ad)
 - No Messenger, Instagram Direct, or WhatsApp chats with him were found — none of those apps are connected — so there is no observed recent contact beyond the user's own mention. (relationships.chat_lookup, 2026-10-15)
 
 ## History
