@@ -1,8 +1,8 @@
 ---
-display_name: 茶室女主人
-summary: The user's wife; hosts the second-floor tea room of the couple's rented three-story 初羽茶盧 building, and is the reference face of the tea video series.
+display_name: "茶室女主人"
+summary: "The user's wife; hosts the second-floor tea room of the couple's rented three-story 初羽茶盧 building, and is the reference face of the tea video series."
 rank: 1
-updated: 2026-10-23
+updated: "2026-10-27"
 ---
 
 # 茶室女主人
@@ -21,6 +21,7 @@ updated: 2026-10-23
 - 2026-10-22 (20:05): the user promised real character materials for both of them tomorrow (10-23) — her multi-angle photos (plain daylight, no beauty filter, in the drama's beige Chinese-style top), a head-turn clip, couple photos — plus real building footage; the three remaining EP1 shots wait for these materials. (window 2026-10-22T12:06:28.441+00:00, message:assistant-msg-5f22c804-bbfa-4d51-add6-25efb07edc1b)
 - 2026-10-23 (morning): the user delivered the first two batches of character materials — 6 photos of her (茶室定妆／星光大道／餐桌 matching the earlier set, plus 2 short-hair travel photos and 1 campus photo) and 4 photos of him (the black-suit formal frontal photo was chosen as his face anchor and uploaded to the compute instance). Her face-anchor material is considered sufficient. Still pending: the couple's photo together, a head-turn clip for each of them, and real footage of the three-story building. (window 2026-10-23T01:17:58.408593+00:00, message:179c6958-5848-4127-b82c-1bc17e05f0c4; message:c9f4adf6-04f6-4d97-8483-a3b5abfce150; message:assistant-msg-5f22c804-bbfa-4d51-add6-25efb07edc1b)
 - 2026-10-23 (14:30 local): EP1 《焚香净心》 v3 (30s 景别版： 开场环境中景 → 取香→插香 → 4s 器具特写 → 品茗 → 闭目收尾 → 尾卡； the 器具特写's blue-tinted smoke was caught in review and re-rendered before assembly) was delivered; the user rejected it outright — 「你这个肯定不行」 — and said he will provide the prompts himself （「我给你把提示词给你」）. The 《茶室慢时光》 line is paused: no more self-directed re-renders or guessing until his prompts arrive. (window 2026-10-23T06:30:06.503+00:00, message:assistant-msg-e81ba8b1-62f1-401d-9c3b-8f326bf2ea8d; window 2026-10-23T06:31:01.598+00:00, message:57987272-e2a2-45ea-be1e-2ee473499ced; memory://md:MEMORY.md)
+- 2026-10-24 to 2026-10-25: the three pending 《一楼烟火》 materials were still outstanding. The building-exterior shooting plan discussed in this window put the exterior at midday on 2026-10-27 (Tuesday, clear), with 2026-10-29 (Thursday, clear, 23°) as the backup, while the couple photo and head-turn clips could be shot indoors in any weather. (window 2026-10-24T13:03:09.837+00:00, message:assistant-msg-36563dbd-ca60-cb14-19ab-574544029a56; window 2026-10-25T03:05:00.557+00:00, message:assistant-msg-ef0d70b0-1869-fabf-3ded-2fc231e38a7e)
 
 ## The relationship
 - Wife, named as such by the user himself. The tie the evidence shows is a working partnership as much as a marriage: they rented and run the building together — he runs the first-floor restaurant, she the second-floor tea room — and the brand's video plans are now built on their real story as a couple. No contact rhythm, communication preferences, or personal detail beyond this is evidenced yet.
@@ -30,8 +31,8 @@ updated: 2026-10-23
 - The 初羽茶盧 tea brand and the Douyin dual-account plan, both video series currently in production around the two of them.
 
 ## Open threads
-- [ ] 《茶室慢时光》 series — EP1 《焚香净心》 v3 (30s) was delivered 2026-10-23 and rejected outright by the user; the line is paused — the user will provide the prompts himself, and nothing re-renders until they arrive. The compute instance is still running and billing (¥1.08/hr); the user was reminded he can shut it down from his phone console ("关机", never "释放") while he is busy. (window 2026-10-23T06:31:10.515+00:00, message:assistant-msg-2e347581-b42d-4cd9-820d-2941bd069c6e; memory://md:MEMORY.md)
+- [ ] 《茶室慢时光》 series — EP1 《焚香净心》 v3 (30s) was delivered 2026-10-23 and rejected outright by the user; the line is paused — the user will provide the prompts himself, and nothing re-renders until they arrive. As of 2026-10-24 the compute instance was confirmed shut off, so it was no longer billing overnight. (window 2026-10-23T06:31:10.515+00:00, message:assistant-msg-2e347581-b42d-4cd9-820d-2941bd069c6e; window 2026-10-24T03:04:34.181+00:00, message:assistant-msg-99780521-6d50-f842-efb4-b67f8e968cb7; memory://md:MEMORY.md)
 - [x] 2026-10-22: 《一楼烟火，二楼茶》 EP1 sample (21s, three shots) delivered 20:03 — her push-window shot's face matched ref_face_main. (window 2026-10-22T12:03:58.049+00:00, message:assistant-msg-6a481fd7-c1d8-4e9c-be7f-7466c77abf59)
-- [ ] 2026-10-23: character materials for 《一楼烟火，二楼茶》 — her 6 photos and his 4 photos received (his face anchor chosen: the black-suit formal photo). Still pending from the user: ① the two of them in one photo ② a head-turn clip each (~10s) ③ real building footage (exterior, each floor's panorama, door-entry clip); the three remaining EP1 shots wait for these. (window 2026-10-23T01:17:58.408593+00:00, message:assistant-msg-5f22c804-bbfa-4d51-add6-25efb07edc1b)
+- [ ] 2026-10-23: character materials for 《一楼烟火，二楼茶》 — her 6 photos and his 4 photos received (his face anchor chosen: the black-suit formal photo). Still pending from the user: ① the two of them in one photo ② a head-turn clip each (~10s) ③ real building footage (exterior, each floor's panorama, door-entry clip); the three remaining EP1 shots wait for these. Still outstanding as of 2026-10-25. (window 2026-10-23T01:17:58.408593+00:00, message:assistant-msg-5f22c804-bbfa-4d51-add6-25efb07edc1b; window 2026-10-25T03:05:00.557+00:00, message:assistant-msg-ef0d70b0-1869-fabf-3ded-2fc231e38a7e)
 
 ## Strengthening
