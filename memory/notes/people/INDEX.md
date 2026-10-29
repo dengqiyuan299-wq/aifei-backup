@@ -7,7 +7,7 @@ Every page under `~/memory/people/`, closest to the user first. Rendered by the 
 - **凤 张 (张凤)** — `~/memory/people/zhang-feng.md` — WeChat contact who gets the user's daily morning tea poster; on 2026-10-20 the user picked the 企业微信 route to her (registration now in the user's hands) after the passive bot blocked direct auto-send.
 - **小龙虾** — `~/memory/people/xiao-long-xia.md` — Someone the user delegates tasks to, whom the assistant cannot reach — no contact info, agent identity, or OpenClaw link (found 2026-10-19); how he actually works with the user is still unanswered.
 - **伟 刘 (刘伟)** — `~/memory/people/liu-wei.md` — Buyer in the user's tea-and-wine sales ledger; repeat purchases across Sept–Oct 2026 totaling ¥15,220, with payment status unrecorded.
-- **守业 关 (关守业)** — `~/memory/people/guan-shou-ye.md` — Repeat buyer in the user's sales ledger; owes ¥3,351.20 on ¥4,151.20 of purchases, with one ¥796 item's name still unremembered.
+- **守业 关 (关守业)** — `~/memory/people/guan-shou-ye.md` — Repeat buyer in the user's sales ledger who owes ¥3,351.20, and a Hebei government/public-security cybersecurity sales professional whose résumé the user reviewed and condensed on 2026-10-28.
 - **雪山 刘 (刘雪山)** — `~/memory/people/liu-xue-shan.md` — Buyer in the user's sales ledger; two tea purchases totaling ¥1,036, with the second purchase's date and payment still pending.
 - **涛 金 (金涛)** — `~/memory/people/jin-tao.md` — Buyer in the user's sales ledger; one ¥700 tea purchase with date and payment still pending.
 - **会娣 童 (童会娣)** — `~/memory/people/tong-hui-di.md` — Buyer in the user's sales ledger; two tea purchases totaling ¥1,016; the user spelled her name character by character.

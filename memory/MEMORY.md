@@ -15,11 +15,11 @@
 - Tea product lines (2026-10-15, corrected 2026-10-16): 云南智德鸿昌 (mainly 普洱 Pu'er; user corrected from 智德红汤） and 福建一名茶叶 (白茶 white tea + 茉莉花茶 jasmine; user corrected from 一鸣 on 2026-10-16). These are the teas marketed under the 初羽茶盧 brand.
 - Daily marketing poster（2026-10-15 起，cron daily-tea-poster，发营销海报 chat）：初羽茶盧®＋石家庄天气/穿衣指数/温馨提示；茶系轮换智德鸿昌·生普/熟普＋一名白茶/茉莉花茶。风格「prestige」（2026-10-18 起）：深色电影感全幅茶摄影＋金色/米色衬线字、无卡片；深色茶壶/深色茶山两背景日更轮换。节气同日加主题海报；传统节日同日加暖金极简节日卡（--style festive：重阳/除夕/春节/元宵/端午/中秋，清明走节气通道）。生成器 ~/workspace/daily-poster/（logo_alpha.png 透明 logo，3 AI 背景）。Track goal_ccb91ace5dce。文案精简（一行问候，穿衣指数并入温馨提示），版式宽松（「字有点拥挤」反馈后）。
 - 河北医疗网安（2026-10-16 立项，10-18 转向全省医疗厂商中立市场分析）：皇上定位系统集成商＋代理商，方案/实施/运维全包，卖长期粘性方案与年度续费（托管安全服务/数据安全/业务连续性），不做纯等保2.0低价竞争。v1/v2 均已交付（2026-10-18；v2 为 28 家医院深度画像：县区人口/医院营收/床位数/过往信息化招标/县区财政收入）。网御做边界＋别家做终端/零信任/防泄漏/备份容灾；28 家目标分 3 档（S 级 10 家窗口明确）；140 家清单＋8 个方案草稿待皇上评审。
-- 石家庄县域医院专项（2026-10-27 皇上点题，报告 ~/workspace/your_files/石家庄县域医院网安信息化拓展报告.md，底稿 ~/workspace/hebei-medical-sec/shijiazhuang-county-A/B/C.md）：17 家县域龙头（11县+晋州/新乐/辛集+藁城/鹿泉/栾城）五维百分制评分。S级4家：正定88（财政58.17亿县域第一、新院区650床已投用、千县工程）、井陉85（已升三级/市西部中心医院、开放600床、门诊58万）、藁城82（新院区一期市重点、1100万医共体平台已投）、新乐81（2025纳入三级管理、编制799床、门诊80万、在位小商冀盼网络续保6万）。A级7家：平山79、元氏75（迁建1000床+医共体提升2024年底立项未花钱）、辛集75、栾城74、深泽72（⏰2026-05刚搬新院530床，限时窗口）、灵寿71（最大信息化事件在中西医结合医院）、赞皇70（⏰5000万智慧医疗已立项未采购）。B级：行唐/赵县/鹿泉（财政46.4亿最高但本院300床被省三甲虹吸，只打区级打包）/无极；C级：晋州/高邑。实操发现：县医院信息化采购以院内比选/随基建打包为主、公开公告极稀缺，须上门催生需求；打法＝五条跑线+90天冲刺（先签栾城/新乐/深泽小快单做样板），产品沿用v1年包口径。
-- 石家庄县域医院报告已交付（2026-10-27 上午）：文字版与语音版一并发出。 This came from 石家庄县域医院报告交付, recorded 2026-10-27.
+- 河北群迈科技有限公司简介（2026-10-28 已交付约 800 字版）：石家庄立足、厂商中立、信息系统集成＋网络安全全生命周期服务，深耕医疗网安与年费服务；公开渠道未核实工商硬信息（成立时间、注册资本、资质、典型客户），待皇上提供营业执照／资质清单补填。
 - 石家庄县域医院下一步（待皇上点头）：按摸底期清单为正定、井陉、藁城、新乐、深泽、赞皇 6 家各做一页首访提纲（见谁、问哪四个问题、带什么、留什么钩子），尚未获批。 This came from 报告交付后的下一步提议, recorded 2026-10-27.
 - 十二中新建医院 (2026-10-16): a new hospital under construction, currently in the design stage; the relevant products are already in the design plan (a product list exists). Next step is engaging the new hospital's 信息中心 and the 总院's 信息中心. Push plan + communication strategy delivered the same morning: design stage as the window to shape the bidding requirements book, PR focus on the 总院信息中心 director, anchored on 电子病历五级 / 互联互通四级 / 智慧服务三级. Still pending from the user: which hospital group it is, and the product list.
 - 河北爱数客户名单调研（2026-10-20）：公开招标渠道核实 0 条（医疗亦 0；方法经外省对照验证有效）；查不到≠没有。下一步：重试政采站内检索 / 剑鱼会员按品牌导出，待皇上拍板；不编名单。
+
 
 ## Preferences
 - 沟通分寸（2026-10-22，皇上亲口纠正）：指导界面操作时只给精确指引，绝不揣测他犯了低级错误（如"在点图片里的按钮"）——他明确反感被当傻子（原话「我不是个傻子」）。步骤走不通时，默认是网站/工具的问题，直接给替代路线，不解释他错在哪。
