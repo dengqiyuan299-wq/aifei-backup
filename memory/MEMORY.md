@@ -19,6 +19,7 @@
 - 石家庄县域医院下一步（待皇上点头）：按摸底期清单为正定、井陉、藁城、新乐、深泽、赞皇 6 家各做一页首访提纲（见谁、问哪四个问题、带什么、留什么钩子），尚未获批。 This came from 报告交付后的下一步提议, recorded 2026-10-27.
 - 十二中新建医院 (2026-10-16): a new hospital under construction, currently in the design stage; the relevant products are already in the design plan (a product list exists). Next step is engaging the new hospital's 信息中心 and the 总院's 信息中心. Push plan + communication strategy delivered the same morning: design stage as the window to shape the bidding requirements book, PR focus on the 总院信息中心 director, anchored on 电子病历五级 / 互联互通四级 / 智慧服务三级. Still pending from the user: which hospital group it is, and the product list.
 - 河北爱数客户名单调研（2026-10-20）：公开招标渠道核实 0 条（医疗亦 0；方法经外省对照验证有效）；查不到≠没有。下一步：重试政采站内检索 / 剑鱼会员按品牌导出，待皇上拍板；不编名单。
+- 石家庄商业公寓买卖税费咨询（2026-10-29）：房产局评估价 7000 元/㎡、售卖价 5100 元/㎡，面积 150 ㎡；原购房单价和买入年份仍未提供，卖方税费总额待这两项到位后才能算确数。
 
 
 ## Preferences
