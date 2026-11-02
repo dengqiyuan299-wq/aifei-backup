@@ -3,7 +3,7 @@ display_name: 童会娣
 first_name: 会娣
 last_name: 童
 summary: Buyer in the user's sales ledger; two tea purchases totaling ¥1,016; the user spelled her name character by character.
-rank: 9
+rank: 11
 updated: 2026-10-22
 ---
 

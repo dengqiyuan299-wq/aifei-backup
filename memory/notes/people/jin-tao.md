@@ -3,7 +3,7 @@ display_name: 金涛
 first_name: 涛
 last_name: 金
 summary: Buyer in the user's sales ledger; one ¥700 tea purchase with date and payment still pending.
-rank: 8
+rank: 10
 updated: 2026-10-22
 ---
 

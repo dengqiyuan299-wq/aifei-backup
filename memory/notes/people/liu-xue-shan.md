@@ -3,7 +3,7 @@ display_name: 刘雪山
 first_name: 雪山
 last_name: 刘
 summary: Buyer in the user's sales ledger; two tea purchases totaling ¥1,036, with the second purchase's date and payment still pending.
-rank: 7
+rank: 9
 updated: 2026-10-22
 ---
 

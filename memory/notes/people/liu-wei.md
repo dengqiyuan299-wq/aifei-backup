@@ -3,7 +3,7 @@ display_name: 刘伟
 first_name: 伟
 last_name: 刘
 summary: Buyer in the user's tea-and-wine sales ledger; repeat purchases across Sept–Oct 2026 totaling ¥15,220, with payment status unrecorded.
-rank: 5
+rank: 7
 updated: 2026-10-22
 ---
 

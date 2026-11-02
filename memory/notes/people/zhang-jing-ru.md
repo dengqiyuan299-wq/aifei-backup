@@ -3,7 +3,7 @@ display_name: "张静茹"
 first_name: "静茹"
 last_name: "张"
 summary: "Buyer in the user's tea-and-wine sales ledger; ¥1,325 of tea on 2026-09-29 (茉莉红茶 and 玫瑰红茶, 5 boxes each), payment status unrecorded."
-rank: 17
+rank: 19
 updated: "2026-10-30"
 ---
 

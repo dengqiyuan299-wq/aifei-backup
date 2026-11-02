@@ -3,7 +3,7 @@ display_name: 王焱
 first_name: 焱
 last_name: 王
 summary: Buyer in the user's tea-and-wine sales ledger; ¥816 across two purchases (2026-09-10 ¥640 paid in full; 2026-09-22 ¥176 碎银子, payment unrecorded).
-rank: 13
+rank: 15
 updated: 2026-10-22
 ---
 

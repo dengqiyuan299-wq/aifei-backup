@@ -1,7 +1,7 @@
 ---
 display_name: 小龙虾
 summary: Someone the user delegates tasks to, whom the assistant cannot reach — no contact info, agent identity, or OpenClaw link (found 2026-10-19); how he actually works with the user is still unanswered.
-rank: 4
+rank: 6
 updated: 2026-10-19
 ---
 

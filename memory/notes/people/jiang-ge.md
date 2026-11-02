@@ -2,7 +2,7 @@
 display_name: 江哥
 nickname: 江哥
 summary: Acquaintance the user addresses as 江哥, tied to tea-and-wine companionship （茶酒水陪）; the user set up the 茶酒水培 side chat around him on 2026-10-15.
-rank: 2
+rank: 4
 updated: 2026-10-22
 ---
 
