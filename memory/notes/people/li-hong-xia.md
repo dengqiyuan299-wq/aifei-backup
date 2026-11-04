@@ -3,7 +3,7 @@ display_name: 李红霞
 first_name: 红霞
 last_name: 李
 summary: Buyer in the user's tea-and-wine sales ledger; ¥2,676 of tea across two purchases, payment status unrecorded.
-rank: 17
+rank: 18
 updated: 2026-10-22
 ---
 

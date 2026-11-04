@@ -3,7 +3,7 @@ display_name: 李智慧
 first_name: 智慧
 last_name: 李
 summary: Buyer in the user's tea-and-wine sales ledger; one ¥960 yellow-wine purchase on 2026-10-10 (approx), fully paid.
-rank: 12
+rank: 13
 updated: 2026-10-22
 ---
 

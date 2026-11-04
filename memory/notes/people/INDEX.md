@@ -3,16 +3,17 @@
 Every page under `~/memory/people/`, closest to the user first. Rendered by the relationships loop; each page carries the facts and the nature of the user's relationship with them.
 
 - **茶室女主人** — `~/memory/people/cha-shi-nv-zhu-ren.md` — The user's wife; hosts the tea room in the couple's rented three-story 初羽茶盧 building (tea rooms on the first and second floors, salon space on the third), and plays 凤姐 in 《一楼烟火》.
-- **筱斐 邓 (邓筱斐)** — `~/memory/people/deng-xiao-fei.md` — The user's child in second grade in Shijiazhuang; English phonics via an interactive iPad set, now with slow native-voice pure-English read-aloud and a 26-day reference audio set.
-- **梓浩 邓 (邓梓浩)** — `~/memory/people/deng-zi-hao.md` — The user's seventh-grade child in Shijiazhuang; story-app geography, history sample awaiting approval, Ep1 animation underway on a new AutoDL instance — models downloading for the first shot.
+- **筱斐 邓 (邓筱斐)** — `~/memory/people/deng-xiao-fei.md` — The user's second-grade child in Shijiazhuang; English phonics, maths and Chinese now in one iPad 点读学习台 app, with A–Z pure-letter-sound v1 awaiting the user's listening verdict.
+- **梓浩 邓 (邓梓浩)** — `~/memory/people/deng-zi-hao.md` — The user's seventh-grade child in Shijiazhuang; 梓浩学堂 v2 delivered 2026-11-03, textbook-beat history Ep1–Ep2 delivered, geography Ep1 rendering.
 - **江哥** — `~/memory/people/jiang-ge.md` — Acquaintance the user addresses as 江哥, tied to tea-and-wine companionship （茶酒水陪）; the user set up the 茶酒水培 side chat around him on 2026-10-15.
 - **凤 张 (张凤)** — `~/memory/people/zhang-feng.md` — WeChat contact who gets the user's daily morning tea poster; OpenClaw WeChat was disconnected on 2026-11-02, so the 企业微信 route (in the user's hands) is now pending.
 - **小龙虾** — `~/memory/people/xiao-long-xia.md` — Someone the user delegates tasks to, whom the assistant cannot reach — no contact info, agent identity, or OpenClaw link (found 2026-10-19); how he actually works with the user is still unanswered.
+- **丽 林 (林丽)** — `~/memory/people/lin-li.md` — Director the user consulted on 2026-11-03 about 本部's procurement-platform needs; the user described those needs as relatively basic.
 - **伟 刘 (刘伟)** — `~/memory/people/liu-wei.md` — Buyer in the user's tea-and-wine sales ledger; repeat purchases across Sept–Oct 2026 totaling ¥15,220, with payment status unrecorded.
 - **守业 关 (关守业)** — `~/memory/people/guan-shou-ye.md` — Repeat buyer in the user's sales ledger, now fully settled (¥4,151.20 paid, ¥0 outstanding), and a Hebei cybersecurity sales professional whose résumé was condensed on 2026-10-28.
-- **雪山 刘 (刘雪山)** — `~/memory/people/liu-xue-shan.md` — Buyer in the user's sales ledger; two tea purchases totaling ¥1,036, with the second purchase's date and payment still pending.
+- **雪山 刘 (刘雪山)** — `~/memory/people/liu-xue-shan.md` — Buyer in the user's sales ledger; two tea purchases totaling ¥1,036, with the second purchase's date and payment still pending, plus an October 2026 九曲红梅 purchase awaiting a unit price.
 - **涛 金 (金涛)** — `~/memory/people/jin-tao.md` — Buyer in the user's sales ledger; one ¥700 tea purchase with date and payment still pending.
-- **会娣 童 (童会娣)** — `~/memory/people/tong-hui-di.md` — Buyer in the user's sales ledger; two tea purchases totaling ¥1,016; the user spelled her name character by character.
+- **会娣 童 (童会娣)** — `~/memory/people/tong-hui-di.md` — Buyer in the user's sales ledger; three tea purchases totaling ¥2,996, including 12 boxes of 老白茶带杯礼盒 on 2026-10-05; the user spelled her name character by character.
 - **智慧 李 (李智慧)** — `~/memory/people/li-zhi-hui.md` — Buyer in the user's tea-and-wine sales ledger; one ¥960 yellow-wine purchase on 2026-10-10 (approx), fully paid.
 - **达 王 (王达)** — `~/memory/people/wang-da.md` — Buyer in the user's tea-and-wine sales ledger; the first buyer of 6-year yellow wine, 10 cases for ¥6,500 on 2026-07-20, fully paid.
 - **志奎 任 (任志奎)** — `~/memory/people/ren-zhi-kui.md` — Buyer in the user's tea-and-wine sales ledger; ¥1,285 of tea on 2026-09-10, fully paid.
@@ -21,3 +22,4 @@ Every page under `~/memory/people/`, closest to the user first. Rendered by the 
 - **红霞 李 (李红霞)** — `~/memory/people/li-hong-xia.md` — Buyer in the user's tea-and-wine sales ledger; ¥2,676 of tea across two purchases, payment status unrecorded.
 - **运显 王 (王运显)** — `~/memory/people/wang-yun-xian.md` — Buyer in the user's tea-and-wine sales ledger; one 10-year yellow-wine purchase of 5 bottles for ¥800 on 2026-10-07, fully paid.
 - **静茹 张 (张静茹)** — `~/memory/people/zhang-jing-ru.md` — Buyer in the user's tea-and-wine sales ledger; ¥1,325 of tea on 2026-09-29 (茉莉红茶 and 玫瑰红茶, 5 boxes each), payment status unrecorded.
+- **腾 王 (王腾)** — `~/memory/people/wang-teng.md` — Buyer in the user's tea-and-wine sales ledger; one 2026-10-11 purchase of 晒白金1741 for ¥1,000, paid.

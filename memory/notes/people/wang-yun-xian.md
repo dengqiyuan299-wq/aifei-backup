@@ -3,7 +3,7 @@ display_name: "王运显"
 first_name: "运显"
 last_name: "王"
 summary: "Buyer in the user's tea-and-wine sales ledger; one 10-year yellow-wine purchase of 5 bottles for ¥800 on 2026-10-07, fully paid."
-rank: 18
+rank: 19
 updated: "2026-10-30"
 ---
 

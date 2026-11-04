@@ -3,7 +3,7 @@ display_name: 王达
 first_name: 达
 last_name: 王
 summary: Buyer in the user's tea-and-wine sales ledger; the first buyer of 6-year yellow wine, 10 cases for ¥6,500 on 2026-07-20, fully paid.
-rank: 13
+rank: 14
 updated: 2026-10-22
 ---
 

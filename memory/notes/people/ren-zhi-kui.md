@@ -3,7 +3,7 @@ display_name: 任志奎
 first_name: 志奎
 last_name: 任
 summary: Buyer in the user's tea-and-wine sales ledger; ¥1,285 of tea on 2026-09-10, fully paid.
-rank: 14
+rank: 15
 updated: 2026-10-22
 ---
 

@@ -3,7 +3,7 @@ display_name: 李成玉
 first_name: 成玉
 last_name: 李
 summary: Buyer in the user's tea-and-wine sales ledger; one ¥160 tea purchase on 2026-09-11, fully paid.
-rank: 16
+rank: 17
 updated: 2026-10-22
 ---
 

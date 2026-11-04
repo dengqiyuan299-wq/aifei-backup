@@ -3,7 +3,7 @@ display_name: "关守业"
 first_name: "守业"
 last_name: "关"
 summary: "Repeat buyer in the user's sales ledger, now fully settled (¥4,151.20 paid, ¥0 outstanding), and a Hebei cybersecurity sales professional whose résumé was condensed on 2026-10-28."
-rank: 8
+rank: 9
 updated: "2026-10-30"
 ---
 
