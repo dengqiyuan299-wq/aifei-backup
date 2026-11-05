@@ -95,6 +95,23 @@ Cinematic extreme close-up of a white porcelain gaiwan on its saucer, lid restin
 
 ---
 
+## 2026-11-04（第 2 天）实绩 · Lite×5 整片验收（爱妃逐片看完）
+- ✅ **熟普红浓 → 正片 02**：公道杯红浓透亮对卡、器物全程稳、两杯齐全；瑕疵：蒸汽偏浓、品茗杯汤色显浅（光学深度差）。
+- ✅ **茉莉花茶 → 正片 03**：嫩黄明亮对卡、干茶带茉莉花苞、蒸汽清淡；小瑕疵：品茗杯带小花纹（非纯白瓷）。
+- ✅ **茶山晨雾 → 正片 04**：日出云海梯田、缓推稳定、无人无建筑，全批最佳。
+- ❌ **白牡丹（Lite＋素材）→ 降级垫片 02**：干茶形态没保住参考——芽变成蜷曲的圆绿芽团，不是白牡丹的银芽配灰绿叶；盖碗缺席。教训：Lite 档压不住参考图，明日改 **Fast＋素材模式** 补拍。
+- ❌ **熟普茶饼 → 降级垫片 03**：饼做成了南瓜形金瓜、个头比盖碗大出一圈，比例失真；无字无手、画面稳。明日改 **Fast** 补拍，提示词须写死 flat round disc（见下）。
+
+## 2026-11-05（第 3 天）补拍计划 · Fast×2（40 点）
+1. 白牡丹：Fast＋素材模式，上传「参考图-白牡丹干茶-裁剪版.jpg」，提示词同第 2 天白牡丹条。
+2. 熟普茶饼（改词版）：
+```
+Cinematic still life of a flat round disc-shaped compressed ripe pu-erh tea cake, about the size of a dinner plate, dark reddish-brown, resting flat on a bamboo mat, a few broken dark tea leaves scattered in front, a white porcelain gaiwan and an empty small tasting cup beside it at natural scale. Soft window light from the left, gentle shadows, very slow sideways camera drift, photorealistic, quiet premium tea shop mood, no text, no labels readable.
+```
+3. 余 10 点可加一条 Lite 茶园嫩芽（第 4 天条）；银针照片到位则优先排银针（Fast＋素材）。
+
+---
+
 ## 验收与归档（爱妃侧）
 
 每条片子皇上发回「智能体」聊天，爱妃整片逐帧验六项：汤色对卡／汤只在公道杯品茗杯／器物不变形不增减／蒸汽烟无色／无手无脸／无文字水印。通过即归档进素材库（按茶类+场景编号），不过的次日用当日额度优先补拍。

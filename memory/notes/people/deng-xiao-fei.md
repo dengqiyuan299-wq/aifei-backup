@@ -2,54 +2,46 @@
 display_name: "邓筱斐"
 first_name: "筱斐"
 last_name: "邓"
-summary: "The user's second-grade child in Shijiazhuang; English phonics, maths and Chinese now in one iPad 点读学习台 app, with A–Z pure-letter-sound v1 awaiting the user's listening verdict."
+summary: "The user's second-grade daughter; standalone 点读学习台 delivered 2026-11-04 with a character-data rollback pending, and a 13-page parent-class tea lesson delivered."
 rank: 2
-updated: "2026-11-03"
+updated: "2026-11-04"
 ---
 
 # 邓筱斐
 
 ## Facts
-- The user's child; the user named the child as one of his two children on 2026-11-02.
-- In second grade in Shijiazhuang, learning English through interactive practice: speaking, word reading, and pronunciation, by natural phonics plus listening and speaking; phonetic symbols are for the parent to check, not for the child to memorise.
-- Current lesson on 2026-11-02: Day 14, Letter N n — nose, net, not, nap.
-- Uses an iPad for learning; the practice set runs from a home-screen icon “字母拼读”.
-- On 2026-11-02 the iPad speech-recognition route was replaced after it silently failed: the fixed version records directly, plays back the child's own voice, gives a slow demonstration, and awards a star on “我读对了”; if the microphone is blocked, it falls back to listen-and-follow plus a star.
-- Has a dedicated learning side chat, 邓筱斐学习, renamed from 孩子学习 on 2026-11-02.
-- Read-aloud standard, 2026-11-02 evening: slow; native English voices only; pure English spoken, Chinese on screen only; words read whole; spelling reads letter sounds, not letter names.
-- Full 26-day standard reference audio set delivered 2026-11-02 evening (day01–day26): each day's 4 words and 3 key sentences read twice, slow native English female voice, pure English only.
-- Single-letter sounds, flagged 2026-11-02 evening: consonants must be short, dry, pure sounds — plosives as one burst, no vowel tail — redone from phoneme-level synthesis or a standard source, sample first, then batch.
-- A–Z pure-letter-sound v1 delivered 2026-11-02 evening: about 1.5 minutes, each letter's name once as a marker followed by its pure sound three times; 26 individual files in letter-sounds-26-v1.zip. It enters the program's spelling sounds only after the user's listening approval.
-- Spaced repetition built and logic-verified late 2026-11-02 (Leitner 1, 3, 7, 14 days, key phonicsSRS_v1): each day's 4 words return at those intervals, correct answers push them later, wrong answers return next day without losing stars, at most 8 per review. Not yet tried on a real iPad; the Safari public link still serves the old version.
-- Second-grade sets ordered late 2026-11-02, delivered in corrected pure-subject form on 2026-11-03 morning: maths 《二年级数学闯关》 — four-level adaptive drills (3 correct up, 2 wrong down plus hint), wrong-question book (removed after 2 correct re-tries), key xiaofei-math-quest-v1, 48,000-question generator verified; Chinese 《二年级语文·古诗认字》 — 8 poems (登鹳雀楼, 望庐山瀑布, 梅花, 夜宿山寺, 村居, 咏柳, 晓出净慈寺, 绝句), 60 grade-2 first-term characters with stroke animation, trace-and-write, quiz and split cards, reviewed at 1, 3, 7 and 14 days. Early drafts mixed subjects and wrong-grade poems; both were corrected. Real-device click untested.
-- On 2026-11-03 morning the three subjects were combined into one iPad app, 《平板点读学习软件》 (“点读学习台”): one home-screen icon, a five-step loop (点读学新 → 录音跟读 → 小测验 → 错题回炉 → 间隔复习 → 掌握毕业), saved progress (key xiaofei-diandu-v1), a “今日任务” strip, and the same 60 characters as the single-subject Chinese set. Its letter sounds are the still-unapproved pure-letter-sound v1. Real-iPad clicking and online stroke loading remain untested; stroke data needs internet, otherwise it falls back to split cards.
-- On 2026-11-03 morning a nine-year classical poetry and prose system was delivered for both children, with a directly usable weekly plan for her; its standard is the 2022 curriculum's 135 required pieces (75 primary, 60 junior-high).
+- The user's child, named as one of his two children on 2026-11-02; on 2026-11-04 he called her "我家闺女".
+- Second grade, Shijiazhuang. English: natural phonics + listening/speaking; phonetic symbols for the parent to check only. Day 14, Letter N n — nose, net, not, nap.
+- Learns on an iPad; dedicated side chat 邓筱斐学习, renamed from 孩子学习 on 2026-11-02. Read-aloud standard: slow, native English female voice only, pure English, words read whole, spelling by letter sounds not letter names. Single-letter sounds must be short, dry and pure — plosives one burst, no vowel tail — sample first, then batch; A–Z v1 unapproved.
+- 26-day reference audio delivered 2026-11-02 evening (4 words + 3 sentences per day, read twice, slow native English female voice, pure English only); spaced repetition built and verified late 2026-11-02 (Leitner 1, 3, 7, 14 days, key phonicsSRS_v1).
+- Sets delivered 2026-11-03 morning, pure-subject: maths 《二年级数学闯关》 (four-level adaptive: 3 correct up, 2 wrong down plus hint; wrong-question book cleared after 2 correct re-tries; key xiaofei-math-quest-v1); Chinese 《二年级语文·古诗认字》 (8 poems, 60 characters, stroke/trace/quiz, 1/3/7/14-day review). Combined the same morning into 《平板点读学习软件》 ("点读学习台"): one icon, five-step loop, saved progress (key xiaofei-diandu-v1), "今日任务" strip.
+- Parent-class lesson, 2026-11-04: her class's "家长走进学堂" asked the user to give one lesson; he ordered tea and AI lessons, then chose tea as main lesson. Tea lesson 《一片叶子的旅行》: 13-page slides + 10-page script (user as 邓爸爸, about 40 minutes; look and smell only, hot water handled by adults), guide "小叶子" throughout, one interactive device per page, new page 11 on tea etiquette (叩手礼, seven-tenths full, elders first, three taps). Dance, etiquette and tea-offering pages are never to be cut. AI lesson (12 pages) stays as backup.
+- Standalone 点读学习台 delivered 2026-11-04: an independent page on the user's own VPS, with no Muse login, chat list, or task panel; it opens straight to the learning page. Content and review rhythm unchanged (English 26 days, maths drills, 8 poems, 60 characters, 1/3/7/14-day review), progress stays on the iPad (key xiaofei-diandu-standalone-v1), and the service is a temporary VPS unit, not self-restarting after a reboot. It superseded the earlier Safari install, after he corrected the assistant twice and insisted on a separate workbench that must not present Muse at all.
+- Voice upgrade deployed 2026-11-04 to the same address: fixed content pre-recorded in female Aria voice — 245 recordings, 4.2 MB (English 177 items, 8 whole poems, 60 characters as "字，组词"); failures fall back to system reading. Dynamic content such as maths still uses system reading, with comic/mechanical voices blocked. The single-letter button remains unapproved v1.
+- Pronunciation feedback, 2026-11-04: the user questioned the English pronunciation ("apple" as the example to verify), said fixed English pronunciation is acceptable, and said the Chinese pronunciation is still not good and must be changed.
+- Character-data problem, 2026-11-04: the user judged the standalone characters worse than the original. The original 60 follow the textbook, while the standalone opens with generic 妈, 爸, 我, 你, 他 and has too few weighty characters; the original gives 2–3 compounds plus a full memory tip per character, the standalone one compound and a short tip. 《绝句》 was also swapped from "迟日江山丽，春风花草香" to the "两个黄鹂鸣翠柳" version. The promised fix is to restore the original dataset verbatim and re-record audio to the restored compounds.
 
 ## History
-- 2026-11-02: the user shared a photo of the child's phonics handout, at Day 14 Letter N n; the full A–Z interactive phonics set was delivered, opening by default on Day 14 and matching the handout's words.
-- 2026-11-02: the user reported the “我大声读” button did nothing on the iPad; the cause was iPad speech recognition failing silently, and a repaired version with the direct recording route was delivered the same day.
-- 2026-11-02 evening: the user corrected the first read-aloud — inaccurate, too fast, spelling by capital letter names. The revised version followed the same evening, completing the 26-day set; single-letter sounds were then flagged as still inaccurate, with the phoneme-level, sample-first redo agreed. A–Z pure-letter-sound v1 was delivered and re-sent; a reminder for about 08:50 on 2026-11-03 was set, with the audio to be re-attached then.
-- 2026-11-02 late evening: the user asked the assistant to check GitHub for advanced children's learning methods and whether video should lead. The conclusion was that durable projects lead with interactive practice plus instant feedback, not video, with spaced repetition the missing piece. The user ordered spaced repetition added and the maths and Chinese sets above.
-- 2026-11-03 morning: the corrected single-subject maths and Chinese sets were delivered, then combined into the 点读学习台 app. The user asked whether it installs on the iPad, and was told it is added via Safari's “添加到主屏幕”, with progress stored on that iPad. The A–Z pure-letter-sound v1 reminder was delivered that morning with the audio re-attached, awaiting his verdict.
+- 2026-11-02: Day 14 handout shared; speech-recognition failure repaired (direct recording/playback, slow demonstration); evening read-aloud corrected, revised 26-day set and A–Z v1 delivered; late evening he ordered spaced repetition and the maths and Chinese sets.
+- 2026-11-03 morning: corrected maths and Chinese sets delivered, then combined into 点读学习台; v1 reminder delivered with audio re-attached.
+- 2026-11-04: tea and AI lessons both made, tea chosen and optimised to 13 pages; the tea-mountain picker picture swap awaits his word. He added 点读学习台 to the home screen, reported a white screen (the Muse login page), and was given a login-once fix, superseded that afternoon by the standalone workbench. Standalone delivery and the voice upgrade followed; he then questioned "apple" and the Chinese voice, and judged the standalone characters worse, so a full rollback was promised.
 
 ## The relationship
 - The user's child, and the user is closely involved in arranging her learning: he set up her dedicated learning chat, shared her current lesson, and asked for a version she can study on her own, with teaching and pronunciation correction built in.
-- The user personally checks pronunciation standards: he corrected speed, voice choice, pure-English delivery, and letter-sound reading on 2026-11-02, and requires a sample before any batch redo. Learning communication runs through the dedicated side chat, where the child can send spoken answers for correction.
+- The user personally checks pronunciation: he corrected speed, voice choice, pure-English delivery, and letter-sound reading on 2026-11-02, and requires a sample before any batch redo. Spoken answers go through the dedicated side chat for correction. For the parent-class lesson he presents as 邓爸爸, teaching her class himself on tea.
+- He is firm about separation for her device: on 2026-11-04 he corrected the assistant twice that the platform must be a standalone workbench, not a window into his Muse account.
 
 ## In common
-- English phonics in Shijiazhuang, including the day-by-day letter lessons and the iPad practice set, from Day 14 onward.
-- The standard reference audio set: the child listens to the standard sound first, then self-checks by follow-reading.
-- The new maths, poetry and character sets for second grade, now combined in the 点读学习台 app.
+- English phonics, day-by-day lessons and the iPad practice set from Day 14 onward; the reference audio set, then self-checked by follow-reading; the new maths, poetry and character sets for second grade, now in the 点读学习台 app; and the parent-class tea lesson for her class, built around tea from the user's own tea room.
 
 ## Open threads
-- [ ] Practice set transfer and home-screen install on the child's iPad not yet confirmed complete as of 2026-11-02.
-- [ ] Repaired recording route and revised read-aloud to be tried on the real iPad as of 2026-11-02, including which English voice the iPad actually selects.
-- [ ] Safari public link still serves the old version as of 2026-11-02 evening; updating it needs the user's go-ahead, unless the child uses the Muse opening, which already has the repaired version.
-- [ ] Full 26-day standard audio package delivered 2026-11-02 evening; saving it to the child's iPad Files is not yet confirmed done.
-- [ ] A–Z pure-letter-sound v1 listening check, morning of 2026-11-03 (reminder delivered with audio re-attached): if approved, the program's spelling sounds are replaced with this set; any sound named as off is redone as v2.
-- [x] Spaced repetition built and logic-verified late 2026-11-02; real-iPad trial still pending.
-- [ ] Maths and Chinese sets delivered in corrected form on 2026-11-03 morning and combined into 点读学习台 the same morning; real-iPad clicking and stroke loading untested, and the combined app's home-screen install not yet confirmed.
-- [ ] Daily spoken reading to be sent to the 邓筱斐学习 chat for fine pronunciation correction, as the built-in check only reaches word and short-sentence level.
+- [ ] A–Z v1 listening check, 2026-11-03: if approved, the program's spelling sounds are replaced with this set; any sound named as off is redone as v2. The standalone single-letter button is still this unapproved v1.
+- [x] 点读学习台 home-screen install completed 2026-11-04 via Safari; the Muse-login route was superseded the same day by the standalone workbench, and the old icon is to be deleted.
+- [ ] Standalone re-install verification, 2026-11-04: user to delete the old icon, re-add the new VPS address, and confirm on the real iPad that it opens straight to the learning page with no Muse content; true-device listening also pending.
+- [ ] Pronunciation verification and re-recording, promised 2026-11-04: check "apple" by recognition, run all 101 English words through recognition and re-record mismatches at the approved speed, and re-record Chinese poems and characters a step slower with pauses, watching polyphonic characters; overwrites in place.
+- [ ] Standalone character-data rollback, promised 2026-11-04: restore the original 60 characters and the original 《绝句》 text verbatim, and re-record audio to the restored compounds.
+- [ ] Practice set transfer, repaired recording route and revised read-aloud not yet confirmed on the real iPad as of 2026-11-02, including which English voice the iPad selects; 26-day audio saving to Files also unconfirmed. Daily spoken reading to be sent to the 邓筱斐学习 chat for fine correction; the built-in check only reaches word and short-sentence level.
+- [ ] Parent-class tea lesson, 13-page version delivered 2026-11-04: user to read slides and script, especially the etiquette page, and say which lines to change; tea-mountain picture swap also awaiting his word.
 
 ## Strengthening
 - Keep the daily routine on the current day's lesson, with spoken reading sent for correction.
