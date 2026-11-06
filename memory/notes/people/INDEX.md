@@ -3,7 +3,7 @@
 Every page under `~/memory/people/`, closest to the user first. Rendered by the relationships loop; each page carries the facts and the nature of the user's relationship with them.
 
 - **茶室女主人** — `~/memory/people/cha-shi-nv-zhu-ren.md` — The user's wife; hosts the tea room in the couple's rented three-story 初羽茶盧 building (tea rooms on the first and second floors, salon space on the third), and plays 凤姐 in 《一楼烟火》.
-- **筱斐 邓 (邓筱斐)** — `~/memory/people/deng-xiao-fei.md` — The user's second-grade daughter; standalone 点读学习台 delivered 2026-11-04, tea-lesson video delivered 2026-11-05, Chinese voice settled 2026-11-05 on a 董卿 clone, 68 items re-recording.
+- **筱斐 邓 (邓筱斐)** — `~/memory/people/deng-xiao-fei.md` — The user's second-grade daughter; 点读学习台 delivered 2026-11-04, now via Cloudflare tunnel; tea video delivered 2026-11-05; 董卿-clone voice picked 2026-11-05, 68-item re-recording stalled on HF quota.
 - **梓浩 邓 (邓梓浩)** — `~/memory/people/deng-zi-hao.md` — Seventh-grade child in Shijiazhuang; 梓浩学堂 v6 delivered 2026-11-04, all 7 animation streams verified 2026-11-05 including history Ep5, and history Ep6 piloting the new OpenClaw–seedance pipeline.
 - **江哥** — `~/memory/people/jiang-ge.md` — Acquaintance the user addresses as 江哥, tied to tea-and-wine companionship （茶酒水陪）; the user set up the 茶酒水培 side chat around him on 2026-10-15.
 - **凤 张 (张凤)** — `~/memory/people/zhang-feng.md` — WeChat contact who gets the user's daily morning tea poster; OpenClaw WeChat was disconnected on 2026-11-02, so the 企业微信 route (in the user's hands) is now pending.
