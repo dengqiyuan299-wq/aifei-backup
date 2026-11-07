@@ -3,10 +3,10 @@
 Every page under `~/memory/people/`, closest to the user first. Rendered by the relationships loop; each page carries the facts and the nature of the user's relationship with them.
 
 - **茶室女主人** — `~/memory/people/cha-shi-nv-zhu-ren.md` — The user's wife; hosts the tea room in the couple's rented three-story 初羽茶盧 building (tea rooms on the first and second floors, salon space on the third), and plays 凤姐 in 《一楼烟火》.
-- **筱斐 邓 (邓筱斐)** — `~/memory/people/deng-xiao-fei.md` — The user's second-grade daughter; 点读学习台 delivered 2026-11-04, now via Cloudflare tunnel; tea video delivered 2026-11-05; 董卿-clone voice picked 2026-11-05, 68-item re-recording stalled on HF quota.
-- **梓浩 邓 (邓梓浩)** — `~/memory/people/deng-zi-hao.md` — Seventh-grade child in Shijiazhuang; 梓浩学堂 v6 delivered 2026-11-04, all 7 animation streams verified 2026-11-05 including history Ep5, and history Ep6 piloting the new OpenClaw–seedance pipeline.
+- **筱斐 邓 (邓筱斐)** — `~/memory/people/deng-xiao-fei.md` — The user's second-grade daughter; 点读学习台 delivered 2026-11-04; tea video remade as a 绘本动画版, delivered 2026-11-07; 董卿-clone voice picked 2026-11-05, re-recording stalled.
+- **梓浩 邓 (邓梓浩)** — `~/memory/people/deng-zi-hao.md` — Seventh-grade child in Shijiazhuang; 梓浩学堂 v6 delivered 2026-11-04, all 7 animation streams verified 2026-11-05, history Ep6 piloting the new seedance pipeline.
 - **江哥** — `~/memory/people/jiang-ge.md` — Acquaintance the user addresses as 江哥, tied to tea-and-wine companionship （茶酒水陪）; the user set up the 茶酒水培 side chat around him on 2026-10-15.
-- **凤 张 (张凤)** — `~/memory/people/zhang-feng.md` — WeChat contact who gets the user's daily morning tea poster; OpenClaw WeChat was disconnected on 2026-11-02, so the 企业微信 route (in the user's hands) is now pending.
+- **凤 张 (张凤)** — `~/memory/people/zhang-feng.md` — WeChat contact who gets the user's daily morning tea poster; a Muse account the user created for her on 2026-11-06 is on the waitlist; the 企业微信 route for the poster is still pending.
 - **小龙虾** — `~/memory/people/xiao-long-xia.md` — Someone the user delegates tasks to, whom the assistant cannot reach — no contact info, agent identity, or OpenClaw link (found 2026-10-19); how he actually works with the user is still unanswered.
 - **丽 林 (林丽)** — `~/memory/people/lin-li.md` — Director the user consulted on 2026-11-03 about 本部's procurement-platform needs; the user described those needs as relatively basic.
 - **伟 刘 (刘伟)** — `~/memory/people/liu-wei.md` — Buyer in the user's tea-and-wine sales ledger; repeat purchases across Sept–Oct 2026 totaling ¥15,220, with payment status unrecorded.
